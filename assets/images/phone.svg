@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="118" viewBox="0 0 118 118">
+  <g id="Group_20567" data-name="Group 20567" transform="translate(-291 -4979)">
+    <g id="Group_20565" data-name="Group 20565" transform="translate(290.553 4978.553)">
+      <g id="Ellipse_65" data-name="Ellipse 65" transform="translate(0.447 0.447)" fill="none" stroke="#f14c4e" stroke-linecap="round" stroke-width="1" stroke-dasharray="3 5" opacity="0.4">
+        <circle cx="59" cy="59" r="59" stroke="none"/>
+        <circle cx="59" cy="59" r="58.5" fill="none"/>
+      </g>
+      <g id="Ellipse_67" data-name="Ellipse 67" transform="translate(10.447 10.447)" fill="none" stroke="#f14c4e" stroke-linecap="round" stroke-width="1" stroke-dasharray="3 5" opacity="0.73">
+        <circle cx="49" cy="49" r="49" stroke="none"/>
+        <circle cx="49" cy="49" r="48.5" fill="none"/>
+      </g>
+      <g id="Ellipse_66" data-name="Ellipse 66" transform="translate(15.447 15.447)" fill="rgba(241,76,78,0.18)" stroke="rgba(241,76,78,0)" stroke-linecap="round" stroke-width="2" stroke-dasharray="3 5">
+        <circle cx="44" cy="44" r="44" stroke="none"/>
+        <circle cx="44" cy="44" r="43" fill="none"/>
+      </g>
+    </g>
+    <g id="phone" transform="translate(330.713 5017.213)">
+      <g id="Group_20606" data-name="Group 20606" transform="translate(29.307 24.473)">
+        <g id="Group_20605" data-name="Group 20605">
+          <path id="Path_25146" data-name="Path 25146" d="M372.114,307.6l-5.167-5.168a3.744,3.744,0,0,0-5.168,0l-.862.862,10.336,10.335.861-.861A3.651,3.651,0,0,0,372.114,307.6Z" transform="translate(-360.917 -301.393)" fill="#f14c4e"/>
+        </g>
+      </g>
+      <g id="Group_20608" data-name="Group 20608" transform="translate(0 3.69)">
+        <g id="Group_20607" data-name="Group 20607" transform="translate(0)">
+          <path id="Path_25147" data-name="Path 25147" d="M27.537,69.8A2.741,2.741,0,0,1,23.9,69.61L13.688,59.387a2.742,2.742,0,0,1-.187-3.633L3.19,45.443A13.152,13.152,0,0,0,3.823,63.3L19.99,79.476a13.076,13.076,0,0,0,17.859.633Z" transform="translate(0 -45.443)" fill="#f14c4e"/>
+        </g>
+      </g>
+      <g id="Group_20610" data-name="Group 20610" transform="translate(4.841 0)">
+        <g id="Group_20609" data-name="Group 20609" transform="translate(0 0)">
+          <path id="Path_25148" data-name="Path 25148" d="M70.809,6.2,65.642,1.034a3.744,3.744,0,0,0-5.168,0l-.862.862L69.948,12.231l.861-.861A3.651,3.651,0,0,0,70.809,6.2Z" transform="translate(-59.612 0)" fill="#f14c4e"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
